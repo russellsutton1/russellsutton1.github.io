@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -63,7 +63,7 @@ author:
   bio    : "I love embedded systems!"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/russellsutton1/"
     # - label: "Twitter"
       # icon: "fab fa-fw fa-twitter-square"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/russellsutton1/"
     # - label: "GitHub"
       # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
