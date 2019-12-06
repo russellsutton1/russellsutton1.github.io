@@ -15,7 +15,7 @@ da truc!k:
 {% endcapture %}
 
 {% capture fig_caption %}
-Da Truck
+The start of Door Controls.
 {% endcapture %}
 
 
