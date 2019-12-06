@@ -34,7 +34,7 @@ Contains basic configuration to get you a site with:
 - Sample about page.
 - Sample 404 page.
 - Site wide search.
-- Homepage as splash page
+- Homepage as splash page.
 
 [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
