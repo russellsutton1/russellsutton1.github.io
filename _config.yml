@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Russell Sutton"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot1-min.jpg"
   bio    : "I love embedded systems!"
   location : "Austin, TX"
   links:
