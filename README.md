@@ -3,7 +3,7 @@
 Originally forked from [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 My version just configured the home page as a splash page and added my information.
 
-##Basic Setup
+## Basic Setup
 - Create a github account. Make your username what you want your domain to be. For this example, I will use HostName.
 - Install git-scm on your computer. You do not need the GUI.
 - Fork this repository, or the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) and rename it as "yourUsername.github.io". for example, HostName.github.io
@@ -13,7 +13,7 @@ My version just configured the home page as a splash page and added my informati
 - Refrence for text formatting [here](https://kramdown.gettalong.org/quickref.html).
 - Visit yourUsername.github.io to see your work!
 
-##Update files
+## Update files
 If you have made changes to your site files, you need to push those changes on to the github.io servers. Do this by updating your repository on github!
 - Navigate to your site's root folder.
 - `git add --all`
