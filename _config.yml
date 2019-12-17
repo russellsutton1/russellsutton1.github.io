@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Russell Sutton
+title: Russell Sutton!!
 email: russell.sutton.1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aerospace engineer focused in software development for IoT and
@@ -60,15 +60,15 @@ plugins:
 author:
   name   : "Russell Sutton"
   avatar : "/assets/images/headshot1-min.jpg"
-  bio    : "Aerospace Engineering  \nThe University of Texas"
+  bio    : "Aerospace Engineering  \nThe University of Texas WWEEE"
   location : "Austin, TX"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/russellsutton1/"
-    # - label: "Twitter"
-      # icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     # - label: "GitHub"
       # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
