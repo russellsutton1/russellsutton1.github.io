@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Russell Sutton"
   avatar : "/assets/images/headshot1-min.jpg"
-  bio    : "Software.\nHardware.\nAerospace Engineering.\nThe University of Texas."
+  bio    : "Software. \nHardware. \nAerospace Engineering. \nThe University of Texas."
   location : "Austin, TX"
   links:
     - label: "LinkedIn"
