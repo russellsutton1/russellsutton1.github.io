@@ -63,6 +63,9 @@ author:
   bio    : "Software. Hardware.  \nAerospace Engineering.  \nThe University of Texas."
   location : "Austin, TX"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:russell.sutton.1@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/russellsutton1/"
@@ -78,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:russell.sutton.1@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/russellsutton1/"
