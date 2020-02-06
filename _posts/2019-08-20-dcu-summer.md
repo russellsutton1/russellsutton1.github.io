@@ -30,7 +30,6 @@ Although all repairs are documented, the storage of them made them inaccessible 
 of the internship period, which was successfully completed and implented with a two intern team. Working as the lead developer was an invaluable experience, exposing me to test driven development, architecture design,
  and product support.
  
- ![Calibration cylinder](/assets/images/PythonGui.mp4)
 
 {% capture fig_img1 %}
 ![Foo]({{ "/assets/images/pisql.jpg" | relative_url }})
@@ -40,3 +39,5 @@ of the internship period, which was successfully completed and implented with a 
   {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Accessing SQL Server on Raspberry Pi's.</figcaption>
 </figure>
+
+<div style='position:relative; padding-bottom:calc(177.78% + 44px)'><iframe src='https://gfycat.com/ifr/SardonicMeatyHare' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
