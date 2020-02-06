@@ -15,5 +15,19 @@ tags:
 
  ![DCU Truck](/assets/images/dcutruck.jpeg)
  
-  To put it in few words as possible, Door Controls refurbishes and develops motor controllers for doors. When using a hadicapped equipped door, there is a good chance Door Controls has had a
-  hand in the distribution of the internal controller. My effort was focused on improving the refurbishment process by introducing electronically accessible records.
+{% capture fig_img %}
+![Foo]({{ "/assets/images/dcutruck.jpeg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>The service truck that started Door Controls USA.</figcaption>
+</figure>
+ 
+ 
+Door Controls main operations lie in the refurbishment and development of motor controllers for automated doors. When using a hadicapped equipped door, there is a good chance Door Controls has had a
+ hand in the distribution of the internal controller. My effort was focused on improving the refurbishment process by introducing electronically accessible records. For 25 years, Door Controls 
+ has managed all refurbisment records through filing cabniets and storage rooms. All knowledge pertaining to standard refurbishment procedures was held within the minds of invaluable employees.
+Although all repairs are documented, the storage of them made them inaccessible outside of the most dire circumstances. Developing a method to collect electronic records of refurbishments was the primary task
+of the internship period, which was successfully completed and implented with a two intern team. Working as the lead developer was an invaluable experience, exposing me to test driven development, architecture design,
+ and product support.
