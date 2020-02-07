@@ -55,10 +55,12 @@ Constructing an effective user interface was challenging, but was well worth the
 repairs from their desk, with no writing and filing, and were able to spend more time repairing. Management's new ability to instantly verify the integrity of any repair as well as
 collect large sums of data to being refining procedures through quality assurance has made the department much more accessible to new employees, in addition to streamlining their current process, and preparing 
 to improve in the future. To this day, all twenty technicians record all information through their personal kisok. In the case of any incident, backup disk images were made, as well as the dependencies setup
-procedure in case of any sotware lockups. With few software oriented employees at the company, clear documentation to keep this system viable was necessary. 
+procedure in case of any sotware lockups. With few software oriented employees at the company, clear documentation to keep this system viable was necessary.
 
 <div style='position:relative; padding-bottom:calc(177.78% + 44px)'><iframe src='https://gfycat.com/ifr/SardonicMeatyHare' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
+The development of this Python application was a month long commitment, with some support necessary for the remainder of the two month period. During this support period, my attention shifted
+towards developing an embedded system to automate quality control testing for their motor controllers. This project introducted me to microcontrollers, which I instantly took great intrest to.
 
 {% capture fig_img2 %}
 ![Foo]({{ "/assets/images/espproto.jpg" | relative_url }})
