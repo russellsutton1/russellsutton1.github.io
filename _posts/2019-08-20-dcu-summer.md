@@ -42,7 +42,7 @@ of the internship period, which was successfully completed and implemented with 
 
 Management's final expectation was very open ended, with the main request being records accessible in the Microsoft Office Suite through SQL Server. Twenty stations were needed, one for each
 repair technician, so unit cost was a consideration during the platform selection process. The familiarity of a name brand tablet was favored, but the development time and cost of creating, as well
-as maintaining either a web-app or a mobile device app. Both of these scenarios would involve a continued investment from the already short staffed IT department.
+as maintaining either a web-app or a mobile device app made this option less that favorable. Both of these scenarios would involve a continued investment from the already short staffed IT department.
 With my focus on a cheap and easily maintainable platform for simple data entry, my sights settled on a Raspberry Pi with an accompanying touchscreen. Although the familiarity of
 name brand mobile devices would ease use for some users, the stability of the Raspberry Pi and software dependencies made it the favorable choice. Accessible USB and Ethernet ports give users
 the ability to add peripherals as well.
@@ -54,7 +54,8 @@ and how part replacements affect the longevity of products.
 Constructing an effective user interface was challenging, but was well worth the effort seeing the benefits for the end users as well as management. Technicians were happy to be able to document
 repairs from their desk, with no writing and filing, and were able to spend more time repairing. Management's new ability to instantly verify the integrity of any repair as well as
 collect large sums of data to being refining procedures through quality assurance has made the department much more accessible to new employees, in addition to streamlining their current process, and preparing 
-to improve in the future.
+to improve in the future. To this day, all twenty technicians record all information through their personal kisok. In the case of any incident, backup disk images were made, as well as the dependencies setup
+procedure in case of any sotware lockups. With few software oriented employees at the company, clear documentation to keep this system viable was necessary. 
 
 <div style='position:relative; padding-bottom:calc(177.78% + 44px)'><iframe src='https://gfycat.com/ifr/SardonicMeatyHare' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
