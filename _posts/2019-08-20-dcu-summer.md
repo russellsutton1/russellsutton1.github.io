@@ -7,6 +7,9 @@ tags:
   - Design
   - Software
   - Hardware
+header:
+  teaser: /assets/images/dcusa.png
+  og_image: /assets/images/dcusa.png
 ---
 
   After a very busy summer, I am delighted to report back to UT with a newfound area of intrest. Despite the unassuming industry of automatic door motor controllers, working at Door
