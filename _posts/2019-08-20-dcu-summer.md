@@ -26,7 +26,7 @@ my fascination of mediating hardware and software systems. My tenure at Door Con
 </figure>
  
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Door Controls main operations lie in the refurbishment and development of motor controllers for automated doors. When using a handicapped equipped door, there is a good chance Door Controls has had a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Door Control's main operations lie in the refurbishment and development of motor controllers for automated doors. When using a handicapped equipped door, there is a good chance Door Controls has had a
 hand in the distribution of the internal controller. My effort was focused on improving the refurbishment process by introducing electronically accessible records. For 25 years, Door Controls 
 has managed all refurbishment records through filing cabinets and storage rooms. All knowledge pertaining to standard refurbishment procedures was held within the minds of invaluable employees.
 Although all repairs are documented, the storage of them made them inaccessible outside of the most dire circumstances. Developing a method to collect electronic records of refurbishments was the primary task
