@@ -13,4 +13,4 @@ to leverage my diverse skill set, as well as collaborate with others that have d
 
 My current topics of intrest are Real Time Operating Systems and Linux Kernel development.
 
-<iframe src="C:\Users\Russell Sutton\Desktop\GitWebsite\russellsutton1.github.io\assets\images\websiteSp2020.pdf" width="100%" height="500px"></iframe>
+<iframe src="\assets\images\websiteSp2020.pdf" width="100%" height="500px"></iframe>
