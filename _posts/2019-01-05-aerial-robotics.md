@@ -16,6 +16,15 @@ best practices including using Git, abiding by formatting conventions, and parti
 amount of programming experience from homeworks and independent projects, these new collaborative programming skills but gave me the ability to easily manage my work and a better understanding of
 writing readable code.
 
+{% capture fig_img1 %}
+![Foo]({{ "/assets/images/tower.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Steady autonomous flight.</figcaption>
+</figure>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building up a wealth of knowledge regarding the system architecture was a substaintial challenge for me, however, once I had a firm grasp of its operation
 I was prepared to being working with the computations team to develop application layer programs that dictate the UAV's pending flight path. My inital project was building a two dimensional
 simulation to mimic the operation of targets in the *International Aerial Robotics Competition* (IARC). These target Roomba vacuum robots operated under a set of criteria based on their proximity to
