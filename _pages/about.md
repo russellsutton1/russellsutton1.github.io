@@ -2,6 +2,9 @@
 permalink: /about/
 title: "About"
 share: true
+header:
+  teaser: /assets/images/campus.jpg
+  og_image: /assets/images/campus.jpg
 ---
 
 I am a senior engineering student at the University of Texas at Austin planning to graduate with a Bachelor of Science in December of 2020. My focus lies in microcontroller applications and firmware
