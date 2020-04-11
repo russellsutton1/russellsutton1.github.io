@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 share: true
 header:
-  teaser: /assets/images/campus.jpg
+  image: /assets/images/campus.jpg
   og_image: /assets/images/campus.jpg
 ---
 
