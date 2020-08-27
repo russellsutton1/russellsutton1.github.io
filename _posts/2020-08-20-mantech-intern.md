@@ -1,7 +1,7 @@
 ---
-title: "Aerial Robotics"
+title: "ManTech Summer Internship"
 categories:
-  - Extracurricular
+  - Industry Experience
 tags:
   - Software
 header:
