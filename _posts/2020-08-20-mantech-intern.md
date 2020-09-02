@@ -4,36 +4,16 @@ categories:
   - Industry Experience
 tags:
   - Software
-header:
-  teaser: /assets/images/tarthb.png
-  og_image: /assets/images/tarthb.png
+  - Design
+  - Resume
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joining the Texas Aerial Robotics team was a decision I made early into my collegiate career, and has had a great deal of influence over my
-projected career path. As my first real experience working with an extensive code base, It was a very formative experience for me, exposing me to high level concepts like autonomous vehicle
-architecture, computer vision, and API usage. This also came with learning some basic procedures necessary to operate in a large collaborative code base. Picking up common
-best practices including using Git, abiding by formatting conventions, and participating in code reviews all built the foundations of my programming abilities. Although I have had a substaintial
-amount of programming experience from homeworks and independent projects, these new collaborative programming skills but gave me the ability to easily manage my work and a better understanding of
-writing readable code.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spending a summer in San Antonio with ManTech International was a great experience, helping me refocus how I think about software design
+and the cybersecurity sector as a whole. Although the project I worked did not directly involve Computer Network Operations (CNO), my discussions with coworkers and some
+small lectures on interesting aspects of software and operating system security pushed me to realized the vast amount of engineering debt related to security, especially with the proliferation of network connected embedded systems.
 
-{% capture fig_img1 %}
-![Foo]({{ "/assets/images/tower.jpg" | relative_url }})
-{% endcapture %}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although my project group was focused on offensive cyber operations, their responsibilities still required reverse engineering of complicated binaries with no source code. Analyzing binaries without any knowledge of the functionality or objective can be incredibly difficult, even with the advanced state of disassemblers and de-compilers available. Our goal of automating some attribution of unknown binaries is not to give the final say on the author or goal of a program, but to give context for further analysis.
 
-<figure>
-  {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Steady autonomous flight.</figcaption>
-</figure>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the rapidly evolving state of binary obfuscation, there is no definitive answer on how to quantify *similar* binaries. Our team of two focused on creating an extensible framework to accommodate a variety of tools. The six week effort resulted in a number of analysis tools recording results to a PostgreSQL database through a Python helper module. This module handled schema creation with user created JSON files and handled client-server communications. This module standardizes the method of communication between new analyzers and the central database allowing for simple expansion.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building up a wealth of knowledge regarding the system architecture was a substaintial challenge for me, however, once I had a firm grasp of its operation
-I was prepared to being working with the computations team to develop application layer programs that dictate the UAV's pending flight path. My inital project was building a two dimensional
-simulation to mimic the operation of targets in the *International Aerial Robotics Competition* (IARC). These target Roomba vacuum robots operated under a set of criteria based on their proximity to
-other targets, contact with the UAV, and their positioning relative to the bounds of the area of operation. This simulation was written in C++, with a class created to store each target's current
-state. The most challenging part of this simulation was managing the headings of each target. Each collision incident required an update to the heading, and the given reaction was dependent of the
-pre-collision heading of the target. Being able to manage both of these conditions for multiple targets when colliding was burdening, but once completed, made the simulation much simpler to work with.
-With the heading set, objects were free to progress along their path of trajectory. My astrodynamics coursework had exposed me to attitude dynamics, which eased much of the computational leg work
-required for this model.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When this competition cycle concluded, I was granted another oppurtunity to work on a similar challenge. I was again working to build a simulation of the competition
-enviroment, but with a new IARC rule set, many new intricacies were introduced. Instead of simulating Roombas operating under given criteria, off-the-shelf drones would be trailing our team's UAV.
-These commerical drones operate on closed source software, and it was up to me and a few peers to replicate the operation of these drones for simulation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concluding the six week period, we were generating meaningful results from comparisons of programs cyclomatic complexity, call graph similarity, import tables, and yara[yara_link]: http://virustotal.github.io/yara/ "yara" rules.
